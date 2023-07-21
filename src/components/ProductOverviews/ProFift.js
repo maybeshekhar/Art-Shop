@@ -2,8 +2,8 @@ import React from 'react'
 
 
 const product = {
-    name: 'Tarini',
-    price: '₹192',
+  name: 'Painting',
+    price: '₹25000',
     href: '#',
     breadcrumbs: [
       { id: 1, name: 'Paintings', href: '/paintings' },

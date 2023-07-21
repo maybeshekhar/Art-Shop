@@ -3,6 +3,8 @@ import AboutHero from './AboutHero'
 import MoreAbout from './MoreAbout'
 import Members from './Members'
 import WorkWithUs from './WorkWithUs'
+import AboutUs from '../AboutUs'
+import NewsLetter from '../BlogSection/NewsLetter'
 
 const CompleteAbout = () => {
   return (
@@ -10,7 +12,8 @@ const CompleteAbout = () => {
         <AboutHero />
         <MoreAbout />
         <Members />
-        <WorkWithUs />
+        {/* <WorkWithUs /> */}
+        <NewsLetter />
     </>
   )
 }

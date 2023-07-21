@@ -15,50 +15,87 @@ const SliderCarousal = () => {
       };
 
   return (
-    <Carousel activeIndex={index} onSelect={handleSelect} style={{ backgroundImage: "url(" + "https://img.freepik.com/free-photo/vintage-wallpaper-background_53876-25246.jpg?w=1060&t=st=1686680121~exp=1686680721~hmac=ed8cca384667c842eb80c4c799ce3c940b3ccc3caca40c47ea6069bb7d6b8923" + ")",
+
+      
+    <Carousel activeIndex={index} onSelect={handleSelect} style={{ backgroundImage: "url(" + " https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=1060&t=st=1686677975~exp=1686678575~hmac=d28b985eb4e64bbbb5701466ffa23b99f6269a3a25b509d868a1f6743d66b9f8" + ")",
     backgroundPosition: 'center',
 backgroundSize: 'cover',
 backgroundRepeat: 'no-repeat'
     }} >
+         
       <Carousel.Item>
         <img
           className="d-block w-100 c-img"
-          src={pic1}
+          src='https://images.unsplash.com/photo-1488274319148-051ed60a9404?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1167&q=80'
           alt="First slide"
           style={{height: '600px', objectFit: 'contain'}}
         />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100 c-img"
-          src={pic2}
+          src='https://images.unsplash.com/photo-1531508679013-67b72b16e597?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
           alt="Second slide"
           style={{height: '600px', objectFit: 'contain'}}
         />
 
         <Carousel.Caption>
-          <h1>Second slide label</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+         
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100 c-img"
-          src={pic3}
+          src='https://images.unsplash.com/photo-1520420097861-e4959843b682?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
           alt="Third slide"
           style={{height: '600px', objectFit: 'contain'}}
         />
         
 
         <Carousel.Caption>
-          <h3>Third slide label</h3>
-          <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-          </p>
+         
+        </Carousel.Caption>
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100 c-img"
+          src='https://images.unsplash.com/photo-1501366062246-723b4d3e4eb6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1796&q=80'
+          alt="Fourth slide"
+          style={{height: '600px', objectFit: 'contain'}}
+        />
+        
+
+        <Carousel.Caption>
+         
+        </Carousel.Caption>
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100 c-img"
+          src='https://images.unsplash.com/photo-1459908676235-d5f02a50184b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
+          alt="Fifth slide"
+          style={{height: '600px', objectFit: 'contain'}}
+        />
+        
+
+        <Carousel.Caption>
+         
+        </Carousel.Caption>
+      </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100 c-img"
+          src='https://images.unsplash.com/photo-1497048679117-1a29644559e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
+          alt="Sixth slide"
+          style={{height: '600px', objectFit: 'contain'}}
+        />
+        
+
+        <Carousel.Caption>
+         
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>

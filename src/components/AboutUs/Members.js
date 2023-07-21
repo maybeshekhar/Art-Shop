@@ -7,13 +7,13 @@ const Members = () => {
           name: 'Chandrashekhar',
           role: 'Web Developer',
           imageUrl:
-            'https://media.licdn.com/dms/image/D5635AQGj8z962N5InQ/profile-framedphoto-shrink_400_400/0/1673072603769?e=1687536000&v=beta&t=mrrQae6KUORbBrBejOqXvoZ14kv4U8tjliUqhtpl31c',
+            'https://miro.medium.com/v2/resize:fill:64:64/1*JxNspIw5yUSi1lZfM50u4Q.png',
         },
         {
           name: 'Akshat',
           role: 'Web Developer',
           imageUrl:
-            'https://media.licdn.com/dms/image/D5603AQGoMNm77-0ruw/profile-displayphoto-shrink_100_100/0/1673372347152?e=1692230400&v=beta&t=96CA73Hwq5mOoJJ8CeOf0SLhCs08WFCtXryptjM8g0c',
+            'https://media.licdn.com/dms/image/D4D03AQGNEZ_D5PXlkA/profile-displayphoto-shrink_800_800/0/1687361415930?e=1695254400&v=beta&t=1rxhnox67G2PAkvMavpfSVkN01TTkC1g_VZrP-DrdnY',
         },
         {
           name: 'Anubhav',
@@ -27,48 +27,8 @@ const Members = () => {
           imageUrl:
             'https://media.licdn.com/dms/image/D4E03AQH-qYFAiSriCw/profile-displayphoto-shrink_100_100/0/1684483060960?e=1692230400&v=beta&t=MuLBem9SpeM1lrcaZSWeyXelUUV9Lo_ejmuGtr8XGug',
         },
-        {
-          name: 'Rahul',
-          role: 'Web Developer',
-          imageUrl:
-            'https://media.licdn.com/dms/image/C5603AQEOeT4WcxGYKw/profile-displayphoto-shrink_100_100/0/1657093378883?e=1692230400&v=beta&t=zYcHDEzUdVZBpnIzMgY0fWV6qChqRKJrdi_rW20s3M0',
-        },
-        {
-          name: 'Mandeep',
-          role: 'Web Developer',
-          imageUrl:
-            'https://media.licdn.com/dms/image/D5603AQGy5va54ZTUMA/profile-displayphoto-shrink_100_100/0/1684499673448?e=1692230400&v=beta&t=7ff5tej6dlXDZoJaDuTjui-le98HkwEnyyuua9GC6tM',
-        },
-        {
-          name: 'Robin',
-          role: 'Web Developer',
-          imageUrl:
-            'https://media.licdn.com/dms/image/D5603AQE2CmRBWFJbUA/profile-displayphoto-shrink_100_100/0/1684591150689?e=1692230400&v=beta&t=rlOLFSSPw5MyU3jO4L3UolI6QDEHY3-JkqEFB_8XBDs',
-        },
-        {
-          name: 'Shubham',
-          role: 'Web Developer',
-          imageUrl:
-            'https://media.licdn.com/dms/image/D4D03AQHSkakz6yhwzA/profile-displayphoto-shrink_100_100/0/1664861218814?e=1692230400&v=beta&t=RU7TNU-iEmpRMY8LnZZL-OdvqwYmsT2Z08chdeDOK0Q',
-        },
-        {
-          name: 'Anurag',
-          role: 'Web Developer',
-          imageUrl:
-            'https://media.licdn.com/dms/image/C4D03AQGtGzgl0N1f5g/profile-displayphoto-shrink_100_100/0/1650398903087?e=1692230400&v=beta&t=5ekKuczvPFhOuyLKveG9svfrlH3De1aTrG-qzzEhgcg',
-        },
-        {
-          name: 'Sunny',
-          role: 'Web Developer',
-          imageUrl:
-            'https://media.licdn.com/dms/image/D4D03AQFN9yFvEBKklw/profile-displayphoto-shrink_100_100/0/1680363283174?e=1692230400&v=beta&t=naOplxbw9yWqDzsHHe2MzwaGXN4PTeyqtmx8LNa-i80',
-        },
-        {
-          name: 'Parmesh',
-          role: 'Web Developer',
-          imageUrl:
-            'https://media.licdn.com/dms/image/D4D03AQHgwCYpvyByGg/profile-displayphoto-shrink_100_100/0/1668344916523?e=1692230400&v=beta&t=TQlRxThoxj8KoSRkUFrLGHVlFxPZhWubWWGmwcjJ1R0',
-        },
+      
+        
         // More people...
       ]
 

@@ -1,9 +1,10 @@
 import React from 'react'
+import {AiFillFacebook, AiFillInstagram , AiFillTwitterSquare} from 'react-icons/ai'
 
 const AboutUs = () => {
     const features = [
-        { name: 'Social Links', description: 'Facebook,Instagram, Youtube' },
-        { name: 'Address', description: ' Our models are crafted using high-quality materials like die-cast metal, resin, and plastic, which ensures durability and longevity.' },
+        { name: 'Social Links', description: '' },
+      
        
       ]
       
@@ -23,8 +24,12 @@ const AboutUs = () => {
                 <dl className="mt-16 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-16 lg:gap-x-8">
                   {features.map((feature) => (
                     <div key={feature.name} className="border-t border-gray-200 pt-4">
-                      <dt className="font-medium text-gray-900">{feature.name}</dt>
-                      <dd className="mt-2 text-sm text-gray-500">{feature.description}</dd>
+                     {/*  <dt className="font-medium text-gray-900" style={{display: 'inline'}}>
+                      <AiFillFacebook style={{display: 'inline', marginRight: '18px'}} /> 
+                      <AiFillInstagram style={{display: 'inline', marginRight: '18px'}} /> 
+                      <AiFillTwitterSquare style={{display: 'inline', marginRight: '18px'}} /></dt> */}
+                      
+                      
                     </div>
                   ))}
                 </dl>

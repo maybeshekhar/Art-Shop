@@ -7,8 +7,8 @@ import brand4 from '../Assets/brands/yupo.png'
 const LogoClouds = () => {
    
         return (
-          <div className="bg-white py-24 sm:py-32" style={{ backgroundImage: "url(" + "https://img.freepik.com/free-photo/vintage-wallpaper-background_53876-25246.jpg?w=1060&t=st=1686680121~exp=1686680721~hmac=ed8cca384667c842eb80c4c799ce3c940b3ccc3caca40c47ea6069bb7d6b8923" + ")",
-          backgroundPosition: 'center',
+          <div className="bg-white py-24 sm:py-32" style={{ backgroundImage: "url(" + "https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8189.jpg?w=1060&t=st=1686677975~exp=1686678575~hmac=d28b985eb4e64bbbb5701466ffa23b99f6269a3a25b509d868a1f6743d66b9f8" + ")",
+         
 backgroundSize: 'cover',
 backgroundRepeat: 'no-repeat'
           }}>

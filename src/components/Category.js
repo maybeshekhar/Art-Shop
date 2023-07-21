@@ -3,32 +3,32 @@ import React from 'react'
 const Category = () => {
     const callouts = [
         {
-          name: 'Painting Type',
-          description: 'Paintings',
-          imageSrc: 'https://dirums.com/images/banner_hero/pattachitra.png',
+          name: '',
+          description: 'Pattachitra Painting',
+          imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/14.Pattchitra_fish_marriage22x29_pwFrzU3.jpg',
           imageAlt: 'Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug.',
-          href: '#',
+          href: '/paintings',
         },
         {
-          name: 'Painting Type',
-          description: 'Paintings',
-          imageSrc: 'https://dirums.com/images/banner_hero/buddha.png',
+          name: '',
+          description: 'Buddha Painting',
+          imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Picsart_22-06-17_07-00-55-733.jpg',
           imageAlt: 'Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant.',
-          href: '#',
+          href: '/paintings',
         },
         {
-          name: 'Painting Type',
-          description: 'Paintings',
+          name: '',
+          description: 'Modern Abstracts',
           imageSrc: 'https://dirums.com/images/banner_hero/modern_abstracts.png',
           imageAlt: 'Collection of four insulated travel bottles on wooden shelf.',
-          href: '#',
+          href: '/paintings',
         },
         {
-          name: 'Painting Type',
-          description: 'Paintings',
+          name: '',
+          description: 'Gond Painting',
           imageSrc: 'https://dirums.com/images/banner_hero/gond_art.png',
           imageAlt: 'Collection of four insulated travel bottles on wooden shelf.',
-          href: '#',
+          href: '/paintings',
         },
       ]
   return (
@@ -49,7 +49,7 @@ backgroundRepeat: 'no-repeat'
                   src={callout.imageSrc}
                   alt={callout.imageAlt}
                   className="h-full w-full object-cover object-center"
-                  style={{borderRadius: '50%'}}
+                 
                 />
               </div>
               <h3 className="mt-6 text-sm text-gray-500">

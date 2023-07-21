@@ -3,7 +3,7 @@ import React from 'react'
 const BlogHero = () => {
   return (
     <div className="bg-white">
-      <div className="mx-auto max-w-10xl py-24 sm:px-6 sm:py-0 lg:px-0"  style={{ backgroundImage: "url(" + "https://img.freepik.com/free-photo/dipping-old-brush-into-red-color_114579-12243.jpg?w=1060&t=st=1686912878~exp=1686913478~hmac=84dd86d0f80727b6a27c67509cfe5a0e12932e8e1f60e0d34d667d31596b4670" + ")",
+      <div className="mx-auto max-w-10xl py-24 sm:px-6 sm:py-0 lg:px-0"  style={{ backgroundImage: "url(" + "https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80" + ")",
         backgroundPosition: 'center',
 backgroundSize: 'cover',
 backgroundRepeat: 'no-repeat',

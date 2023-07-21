@@ -6,9 +6,9 @@ const Paintings = () => {
     const products = [
         {
           id: 1,
-          name: 'Tarini | Handpainted village women',
+          name: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Tarini_Mrinal_Dutt.jpeg',
           imageAlt: 'Tall slender porcelain bottle with natural clay textured body and cork stopper.',
           linkTo: "/one"
@@ -17,7 +17,7 @@ const Paintings = () => {
           id: 2,
           name: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Serenity_1.png',
           imageAlt: 'Olive drab green insulated bottle with flared screw lid and flat top.',
           linkTo: "/two"
@@ -26,7 +26,7 @@ const Paintings = () => {
           id: 3,
           name: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Jelly_FIsh_Surya_Prathap_Samal_GjnrRg5.jpg',
           imageAlt: 'Person using a pen to cross a task off a productivity paper card.',
           linkTo: "/three"
@@ -35,7 +35,7 @@ const Paintings = () => {
           id: 4,
           name: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/The_Buddha02_KANKANA_PAL_Acrylic_On_Canvas_24x30.jpg',
           imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
           linkTo: "/four"
@@ -44,7 +44,7 @@ const Paintings = () => {
           id: 5,
           name: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Puri_Jagganatha_Surya_Pratap_Samal.jpg',
           imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
           linkTo: "/five"
@@ -53,7 +53,7 @@ const Paintings = () => {
           id: 6,
           name: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Nocturnal_Brilliance_Border__01.jpg',
           imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
           linkTo: "/six"
@@ -62,7 +62,7 @@ const Paintings = () => {
           id: 7,
           name: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/My_Dream_1_6FlvJtP.jpg',
           imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
           linkTo: "/seven"
@@ -71,7 +71,7 @@ const Paintings = () => {
           id: 8,
           name: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Vargavi_Kejriwal_deer_couple_ACRYLIC_ON_PAPER_10x14.jpg',
           imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
           linkTo: "/eight"
@@ -80,7 +80,7 @@ const Paintings = () => {
           id: 9,
           name: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Hunting_eagle_Monika_Bharti_Acrylic_On_Canvas_11x12_inch.jpg',
           imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
           linkTo: "/nine"
@@ -89,7 +89,7 @@ const Paintings = () => {
           id: 10,
           naname: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/b.meghmala_OIL_ON_CANVAS_18X24_inch.jpg',
           imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
           linkTo: "/ten"
@@ -98,7 +98,7 @@ const Paintings = () => {
           id: 11,
           name: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/20210521_084546_uliy1xE.jpg',
           imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
           linkTo: "/eleven"
@@ -107,7 +107,7 @@ const Paintings = () => {
           id: 12,
           name: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/IMG_20220830_110242.jpg_1662217352367',
           imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
           linkTo: "/twelve"
@@ -116,7 +116,7 @@ const Paintings = () => {
           id: 13,
           name: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Ganesha_Pixel_Art_Anup_Kumar_Sinha_Watercolor_on_Handmade_Paper_8.3x11.7_copy.png',
           imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
           linkTo: "/thirteen"
@@ -125,7 +125,7 @@ const Paintings = () => {
           id: 14,
           name: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Radhakrishnan_or_Mira_Vishwas_Pawar_ACRYLIC_ON_BOARD_18X15inch.jpg',
           imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
           linkTo: "/fouteen"
@@ -134,7 +134,7 @@ const Paintings = () => {
           id: 15,
           name: 'Painting',
           href: '#',
-          price: '₹4,800',
+          price: '₹25,000',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/blob1683416291239.undefined',
           imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
           linkTo: "/fifteen"

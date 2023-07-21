@@ -77,7 +77,7 @@ backgroundRepeat: 'no-repeat',
       <Carousel.Item>
         <img
           className="d-block w-100 c-img"
-          src='https://img.freepik.com/free-photo/friendly-atmosphere-group-young-freelancers-office-have-conversation-smiling_146671-13630.jpg?w=1060&t=st=1686916776~exp=1686917376~hmac=5d6e1c68793aa6cf98031757265d06fcf08fb217349d0260177ea8582a64d17d'
+          src='https://images.unsplash.com/photo-1568992687947-868a62a9f521?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80'
           alt="First slide"
           style={{height: '600px', objectFit: 'contain'}}
         />
@@ -85,7 +85,7 @@ backgroundRepeat: 'no-repeat',
       <Carousel.Item>
         <img
           className="d-block w-100 c-img"
-          src='https://img.freepik.com/free-photo/close-up-people-having-fun-while-playing-table-soccer_23-2149060299.jpg?w=1060&t=st=1686917185~exp=1686917785~hmac=a73a8e029d5d5a8b7945ca4ffb24005bb800d69f05e74fdb4e799322313fa3d4'
+          src='https://images.unsplash.com/photo-1497366811353-6870744d04b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80'
           alt="First slide"
           style={{height: '600px', objectFit: 'contain'}}
         />
@@ -94,7 +94,7 @@ backgroundRepeat: 'no-repeat',
       <Carousel.Item>
         <img
           className="d-block w-100 c-img"
-          src='https://img.freepik.com/free-photo/mixed-team-playing-blocks-wood-game-office_158595-5184.jpg?w=1060&t=st=1686917232~exp=1686917832~hmac=4f7e8ffa0739cbcd1ffc517fd4e766837c297411e8c140dabdf730dcd103314a'
+          src='https://images.unsplash.com/photo-1497366616365-e78dd380d3dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80'
           alt="First slide"
           style={{height: '600px', objectFit: 'contain'}}
         />
@@ -103,7 +103,7 @@ backgroundRepeat: 'no-repeat',
       <Carousel.Item>
         <img
           className="d-block w-100 c-img"
-          src='https://img.freepik.com/free-photo/modern-interior-design-office_181624-21578.jpg?w=1060&t=st=1686917269~exp=1686917869~hmac=d3df420fb135c49fc39d6a76f805bfbb8870f9de1823a3ebbfaa93f08e9834c5'
+          src='https://images.unsplash.com/photo-1606857521015-7f9fcf423740?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
           alt="First slide"
           style={{height: '600px', objectFit: 'contain'}}
         />
@@ -112,7 +112,7 @@ backgroundRepeat: 'no-repeat',
       <Carousel.Item>
         <img
           className="d-block w-100 c-img"
-          src='https://img.freepik.com/free-photo/smiling-students-studying-together-table_23-2147850724.jpg?w=1060&t=st=1686917332~exp=1686917932~hmac=0ef985b7fd1dd187f64b34755b2494a33849da2c12c07c707b5d8452bff71617'
+          src='https://images.unsplash.com/photo-1510074377623-8cf13fb86c08?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80'
           alt="First slide"
           style={{height: '600px', objectFit: 'contain'}}
         />
@@ -121,7 +121,7 @@ backgroundRepeat: 'no-repeat',
       <Carousel.Item>
         <img
           className="d-block w-100 c-img"
-          src='https://img.freepik.com/free-photo/friends-summer-vacation-laughing-having-fun-jumping-walking-through-streets-city_72229-386.jpg?w=1060&t=st=1686917350~exp=1686917950~hmac=55e09f132fca8e41b07efaafa37a13861bf047ce8d07b56809f62f3b0b4c6959'
+          src='https://images.unsplash.com/photo-1653669485641-8582ad808121?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80'
           alt="First slide"
           style={{height: '600px', objectFit: 'contain'}}
         />
@@ -130,7 +130,7 @@ backgroundRepeat: 'no-repeat',
       <Carousel.Item>
         <img
           className="d-block w-100 c-img"
-          src='https://img.freepik.com/free-photo/group-people-working-out-business-plan-office_1303-15818.jpg?w=1060&t=st=1686916924~exp=1686917524~hmac=7c1ba8fa02ad9feee3dee5ae57633e0fd40d03e8f2bf2dfd5ccb57b7740b5a46'
+          src='https://images.unsplash.com/photo-1503418895522-46f9804cda40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
           alt="First slide"
           style={{height: '600px', objectFit: 'contain'}}
         />
@@ -139,7 +139,7 @@ backgroundRepeat: 'no-repeat',
       <Carousel.Item>
         <img
           className="d-block w-100 c-img"
-          src='https://img.freepik.com/free-photo/group-people-working-out-business-plan-office_1303-15871.jpg?w=1060&t=st=1686917114~exp=1686917714~hmac=3e7a4e0535a06907871cd0615098e36c2943a61bde39338e7cc966c763ebbf18'
+          src='https://images.unsplash.com/photo-1521737451536-00a86f630f3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
           alt="First slide"
           style={{height: '600px', objectFit: 'contain'}}
         />
@@ -148,7 +148,7 @@ backgroundRepeat: 'no-repeat',
       <Carousel.Item>
         <img
           className="d-block w-100 c-img"
-          src='https://img.freepik.com/free-photo/group-people-working-team_23-2147656716.jpg?w=1060&t=st=1686917138~exp=1686917738~hmac=32040c3ec72cdc3f3fa559d6e4ec2356cb952d5cb57e2b5f53eb3c8da85132d8'
+          src='https://images.unsplash.com/photo-1567176019727-21d0a58f24e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
           alt="First slide"
           style={{height: '600px', objectFit: 'contain'}}
         />
@@ -157,7 +157,7 @@ backgroundRepeat: 'no-repeat',
       <Carousel.Item>
         <img
           className="d-block w-100 c-img"
-          src='https://img.freepik.com/free-photo/people-meeting-room-having-conference_23-2147656693.jpg?w=1060&t=st=1686916736~exp=1686917336~hmac=440c1400f388f61e31c928cd97f1227c8c7b70906d11e41c6402498d92f0fe3c'
+          src='https://images.unsplash.com/photo-1532618793091-ec5fe9635fbd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
           alt="Second slide"
           style={{height: '600px', objectFit: 'contain'}}
         />
@@ -166,7 +166,7 @@ backgroundRepeat: 'no-repeat',
       <Carousel.Item>
         <img
           className="d-block w-100 c-img"
-          src='https://img.freepik.com/free-photo/businesspeople-having-discussion-team-meeting-modern-office-interior_1163-4771.jpg?w=1060&t=st=1686916694~exp=1686917294~hmac=98221189a029972d2514f315e7764808cd99adf7b47b91ac04d6cdd6c01ed022'
+          src='https://images.unsplash.com/photo-1653669485641-8582ad808121?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80'
           alt="Third slide"
           style={{height: '600px', objectFit: 'contain'}}
         />

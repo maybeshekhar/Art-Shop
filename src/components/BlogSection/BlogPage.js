@@ -6,7 +6,7 @@ const BlogPage = () => {
         {
           id: 1,
           img: 'https://img.freepik.com/free-photo/woman-art-school-wearing-apron-drawing-easel_1157-46856.jpg?size=626&ext=jpg&ga=GA1.1.492605150.1686677965&semt=sph',
-          title: 'Boost your conversion rate',
+          title: 'Mastering the Art of Color: A Guide to Understanding Paints and Pigments',
           href: '#',
           description:
             'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
@@ -14,17 +14,17 @@ const BlogPage = () => {
           datetime: '2020-03-16',
           category: { title: 'Marketing', href: '#' },
           author: {
-            name: 'Michael Foster',
+            name: 'Vijay Sharma',
             role: 'Co-Founder / CTO',
             href: '#',
             imageUrl:
-              'https://media.licdn.com/dms/image/D4D03AQFTamkS5rahjA/profile-displayphoto-shrink_400_400/0/1682332800708?e=1692230400&v=beta&t=GkYljgoBtMReOJX_-R1w-mugJULEBk2OhbY2SfPSj0A',
+              '',
           },
         },
         {
           id: 1,
           img: 'https://img.freepik.com/free-vector/creative-art-doodle-vector-diy-artist-concept_53876-140898.jpg?size=626&ext=jpg&ga=GA1.1.492605150.1686677965&semt=sph',
-          title: 'Boost your conversion rate',
+          title: 'From Canvas to Creation: Exploring the Relationship Between Art and Paints',
           href: '#',
           description:
             'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
@@ -32,17 +32,17 @@ const BlogPage = () => {
           datetime: '2020-03-16',
           category: { title: 'Marketing', href: '#' },
           author: {
-            name: 'Michael Foster',
+            name: 'Tonny Dsalvia',
             role: 'Co-Founder / CTO',
             href: '#',
             imageUrl:
-              'https://media.licdn.com/dms/image/D4D03AQFTamkS5rahjA/profile-displayphoto-shrink_400_400/0/1682332800708?e=1692230400&v=beta&t=GkYljgoBtMReOJX_-R1w-mugJULEBk2OhbY2SfPSj0A',
+              '',
           },
         },
         {
           id: 1,
           img: 'https://img.freepik.com/premium-photo/male-caucasian-teenager-painting-art-studio-artist-apron-picture-drawing-generative-ai-aig23_31965-149629.jpg?size=626&ext=jpg&ga=GA1.1.492605150.1686677965&semt=sph',
-          title: 'Boost your conversion rate',
+          title: 'Unleashing Your Inner Artist: How Different Paints Inspire Creativity',
           href: '#',
           description:
             'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
@@ -50,17 +50,17 @@ const BlogPage = () => {
           datetime: '2020-03-16',
           category: { title: 'Marketing', href: '#' },
           author: {
-            name: 'Michael Foster',
+            name: 'Yash Kapoor',
             role: 'Co-Founder / CTO',
             href: '#',
             imageUrl:
-              'https://media.licdn.com/dms/image/D4D03AQFTamkS5rahjA/profile-displayphoto-shrink_400_400/0/1682332800708?e=1692230400&v=beta&t=GkYljgoBtMReOJX_-R1w-mugJULEBk2OhbY2SfPSj0A',
+              '',
           },
         },
         {
           id: 1,
           img: 'https://img.freepik.com/premium-photo/acrylic-colors-mixing-water-colorful-acrylic-paint-mixing-watergenerative-ai_841229-2059.jpg?size=626&ext=jpg&ga=GA1.1.492605150.1686677965&semt=sph',
-          title: 'Boost your conversion rate',
+          title: 'The Evolution of Paints: Tracing the History and Future of Artistic Mediums',
           href: '#',
           description:
             'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
@@ -68,11 +68,11 @@ const BlogPage = () => {
           datetime: '2020-03-16',
           category: { title: 'Marketing', href: '#' },
           author: {
-            name: 'Michael Foster',
+            name: 'Sumegha Rusty',
             role: 'Co-Founder / CTO',
             href: '#',
             imageUrl:
-              'https://media.licdn.com/dms/image/D4D03AQFTamkS5rahjA/profile-displayphoto-shrink_400_400/0/1682332800708?e=1692230400&v=beta&t=GkYljgoBtMReOJX_-R1w-mugJULEBk2OhbY2SfPSj0A',
+              '',
           },
         },
         // More posts...
@@ -112,7 +112,7 @@ const BlogPage = () => {
                 <p className="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">{post.description}</p>
               </div>
               <div className="relative mt-8 flex items-center gap-x-4">
-                <img src={post.author.imageUrl} alt="" className="h-10 w-10 rounded-full bg-gray-50" />
+                
                 <div className="text-sm leading-6">
                   <p className="font-semibold text-gray-900">
                     <a href={post.author.href}>
@@ -120,7 +120,7 @@ const BlogPage = () => {
                       {post.author.name}
                     </a>
                   </p>
-                  <p className="text-gray-600">{post.author.role}</p>
+                 
                 </div>
               </div>
             </article>

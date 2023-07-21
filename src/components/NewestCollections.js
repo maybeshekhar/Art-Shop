@@ -3,43 +3,43 @@ import React from 'react'
 const NewestCollections = () => {
     const callouts = [
         {
-          name: 'Arts',
-          description: 'Paintings and Banner ',
+          name: '',
+          description: '',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Save__the_earth_series1_Soma_Sen.JPG',
           imageAlt: 'Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug.',
           href: '#',
         },
         {
-          name: 'The Musical Band | Musical Band Acrylic On Canvas Large Painting',
-          description: 'Acrylic On Canvas',
+          name: '',
+          description: '',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/musicians_Anupam_pal_zooomed_1_9yyfJfn.jpg',
           href: '#',
         },
         {
-          name: 'Merchandise',
-          description: 'TShirts, Caps and many more..',
+          name: '',
+          description: '',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/TIME_TRAVEL_7_acrylic_on_canvas_40_x_30_inches_7P5NwSY.jpg',
           imageAlt: 'Collection of four insulated travel bottles on wooden shelf.',
           href: '#',
         },
     
         {
-          name: 'Merchandise',
-          description: 'TShirts, Caps and many more..',
+          name: '',
+          description: '',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/TIME_TRAVEL_8_acrylic_on_canvas_40_x_30_inches.jpg',
           imageAlt: 'Collection of four insulated travel bottles on wooden shelf.',
           href: '#',
         },
         {
-          name: 'Merchandise',
-          description: 'TShirts, Caps and many more..',
+          name: '',
+          description: '',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/22-carat-gold-bike-sculpture.jpeg',
           imageAlt: 'Collection of four insulated travel bottles on wooden shelf.',
           href: '#',
         },
         {
-          name: 'Merchandise',
-          description: 'TShirts, Caps and many more..',
+          name: '',
+          description: '',
           imageSrc: 'https://d2wmjgcwxowcvo.cloudfront.net/download-2022.1.23_19.7.26-dirums-(dirums.com)/media/Stallion_Shaan_Yashowar_Verma_Oil_on_Canvas_48x36.jpg',
           imageAlt: 'Collection of four insulated travel bottles on wooden shelf.',
           href: '#',
@@ -68,6 +68,7 @@ const NewestCollections = () => {
                     {callout.name}
                   </a>
                 </h3>
+          
                 <p className="text-base font-semibold text-white-50">{callout.description}</p>
               </div>
             ))}
